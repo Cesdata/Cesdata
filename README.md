@@ -53,18 +53,10 @@ ORDER BY relevance DESC;
 
 | Projeto | O que faz | Stack |
 |--------|-----------|-------|
+| **[Scoring de Crédito — Inadimplência](https://github.com/Cesdata/scoring-de-credito-inadimplencia)** | Modelo preditivo de probabilidade de inadimplência com engenharia de features 100% causal e AUC de 0.94 na validação temporal | Python · Scikit-learn · Pandas |
 | **[Home Value Forecasting](https://github.com/Cesdata/Home-Value-Forecasting)** | Projeto end-to-end de regressão analisando 81 variáveis imobiliárias para prever preços e identificar os principais fatores de valorização | Python · Scikit-learn · LightGBM · CatBoost · Pandas |
 | **[Boston Houses](https://github.com/Cesdata/Boston_houses/blob/main/Boston_houses.ipynb)** | Modelo de regressão para previsão de valores de imóveis em Boston | Python · Scikit-learn · Pandas |
-
-
----
-
-
-### 📁 Outros projetos e estudos
-
-| Projeto | Descrição |
-|--------|-----------|
-| **Risco de Crédito (em breve)** | Modelo de classificação treinado em base histórica de clientes para prever a probabilidade de inadimplência |
+| **Em breve — PoD Academy** | Projeto prático em desenvolvimento | Em breve |
 
 ---
 
